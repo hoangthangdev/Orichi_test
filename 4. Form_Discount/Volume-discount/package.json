@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@shopify/app-bridge": "^3.7.10",
+    "@shopify/app-bridge-react": "^4.1.5",
+    "@shopify/polaris": "^13.9.0",
+    "react-hook-form": "^7.53.0"
+  }
+}

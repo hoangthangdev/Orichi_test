@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Orichi_test\\4. Form_\\Volume-discount\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86E6DB05-3A19-4393-9524-607297C52BC2}|Volume-discount\\volume-discount.esproj|d:\\orichi_test\\4. form_\\volume-discount\\volume-discount\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{86E6DB05-3A19-4393-9524-607297C52BC2}|Volume-discount\\volume-discount.esproj|solutionrelative:volume-discount\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E6DB05-3A19-4393-9524-607297C52BC2}|Volume-discount\\volume-discount.esproj|d:\\orichi_test\\4. form_\\volume-discount\\volume-discount\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{86E6DB05-3A19-4393-9524-607297C52BC2}|Volume-discount\\volume-discount.esproj|solutionrelative:volume-discount\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E6DB05-3A19-4393-9524-607297C52BC2}|Volume-discount\\volume-discount.esproj|d:\\orichi_test\\4. form_\\volume-discount\\volume-discount\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{86E6DB05-3A19-4393-9524-607297C52BC2}|Volume-discount\\volume-discount.esproj|solutionrelative:volume-discount\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.jsx",
+              "DocumentMoniker": "D:\\Orichi_test\\4. Form_\\Volume-discount\\volume-discount\\src\\App.jsx",
+              "RelativeDocumentMoniker": "volume-discount\\src\\App.jsx",
+              "ToolTip": "D:\\Orichi_test\\4. Form_\\Volume-discount\\volume-discount\\src\\App.jsx",
+              "RelativeToolTip": "volume-discount\\src\\App.jsx",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-08T14:07:55.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.jsx",
+              "DocumentMoniker": "D:\\Orichi_test\\4. Form_\\Volume-discount\\volume-discount\\src\\main.jsx",
+              "RelativeDocumentMoniker": "volume-discount\\src\\main.jsx",
+              "ToolTip": "D:\\Orichi_test\\4. Form_\\Volume-discount\\volume-discount\\src\\main.jsx",
+              "RelativeToolTip": "volume-discount\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-08T14:07:54.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\Orichi_test\\4. Form_\\Volume-discount\\volume-discount\\package.json",
+              "RelativeDocumentMoniker": "volume-discount\\package.json",
+              "ToolTip": "D:\\Orichi_test\\4. Form_\\Volume-discount\\volume-discount\\package.json",
+              "RelativeToolTip": "volume-discount\\package.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T13:45:59.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

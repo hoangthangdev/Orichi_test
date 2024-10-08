@@ -1,0 +1,14 @@
+D:\Orichi_test\2.Thuat_toan\Order_Search_Arr\Order_Search_Arr\bin\Debug\net8.0\Order_Search_Arr.exe
+D:\Orichi_test\2.Thuat_toan\Order_Search_Arr\Order_Search_Arr\bin\Debug\net8.0\Order_Search_Arr.deps.json
+D:\Orichi_test\2.Thuat_toan\Order_Search_Arr\Order_Search_Arr\bin\Debug\net8.0\Order_Search_Arr.runtimeconfig.json
+D:\Orichi_test\2.Thuat_toan\Order_Search_Arr\Order_Search_Arr\bin\Debug\net8.0\Order_Search_Arr.dll
+D:\Orichi_test\2.Thuat_toan\Order_Search_Arr\Order_Search_Arr\bin\Debug\net8.0\Order_Search_Arr.pdb
+D:\Orichi_test\2.Thuat_toan\Order_Search_Arr\Order_Search_Arr\obj\Debug\net8.0\Order_Search_Arr.GeneratedMSBuildEditorConfig.editorconfig
+D:\Orichi_test\2.Thuat_toan\Order_Search_Arr\Order_Search_Arr\obj\Debug\net8.0\Order_Search_Arr.AssemblyInfoInputs.cache
+D:\Orichi_test\2.Thuat_toan\Order_Search_Arr\Order_Search_Arr\obj\Debug\net8.0\Order_Search_Arr.AssemblyInfo.cs
+D:\Orichi_test\2.Thuat_toan\Order_Search_Arr\Order_Search_Arr\obj\Debug\net8.0\Order_Search_Arr.csproj.CoreCompileInputs.cache
+D:\Orichi_test\2.Thuat_toan\Order_Search_Arr\Order_Search_Arr\obj\Debug\net8.0\Order_Search_Arr.dll
+D:\Orichi_test\2.Thuat_toan\Order_Search_Arr\Order_Search_Arr\obj\Debug\net8.0\refint\Order_Search_Arr.dll
+D:\Orichi_test\2.Thuat_toan\Order_Search_Arr\Order_Search_Arr\obj\Debug\net8.0\Order_Search_Arr.pdb
+D:\Orichi_test\2.Thuat_toan\Order_Search_Arr\Order_Search_Arr\obj\Debug\net8.0\Order_Search_Arr.genruntimeconfig.cache
+D:\Orichi_test\2.Thuat_toan\Order_Search_Arr\Order_Search_Arr\obj\Debug\net8.0\ref\Order_Search_Arr.dll

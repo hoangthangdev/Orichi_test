@@ -1,0 +1,22 @@
+1.Giải thích về Dependency Injection và cách sử dụng nó trong .NET Core. 
+.NET framework có hỗ trợ trực tiếp Dependency Injection, nếu có, cách sử dụng như thế nào? nếu không, có cách nào để xử lý không?
+
+- Dependency injection (DI) là một kỹ thuật trong lập trình
+  DI thiết kế sao cho các dependency (phụ thuộc) của một đối tượng CÓ THỂ được đưa vào, tiêm vào đối tượng đó (Injection) khi nó cần tới (khi đối tượng khởi tạo)
+   - Xây dựng các lớp (dịch vụ) có sự phụ thuộc nhau một cách lỏng lẻo, và dependency có thể tiêm vào đối tượng (injection) - thường qua phương thức khởi tạo constructor, property, setter
+   - Xây dựng được một thư viện có thể tự động tạo ra các đối tượng, các dependency tiêm vào đối tượng đó, thường là áp dụng kỹ thuật Reflection của C# (xem thêm lớp type): 
+         Thường là thư viện này quá phức tạp để tự phát triển nên có thể sử dụng các thư viện có sẵn như:
+          Microsoft.Extensions.DependencyInjection hoặc thư viện bên thứ ba như Windsor, Unity Ninject ...
+
++ cách sử dụng nó trong .NET Core
+- đăng ký dịch vụ (AddTransient,AddScoped,AddSingleton) vào lớp IServiceCollection  => nơi chương trình khởi chạy đầu tiên.
+- Tạo interface và các lớp triển khai đã đăng ký
+- sử dụng lớp đã đang ký tại lớp mong muốn. thông qua inject lớp vào constructor 
+
++ .NET framework có hỗ trợ trực tiếp Dependency Injection, nếu có, cách sử dụng như thế nào? nếu không, có cách nào để xử lý không?
+
+-.Net framework  có hỗ trợ trực tiếp Dependency Injection,nó là một phần tích hợp sẵn trong các framework hiện đại của .NET
+
+
++ Nếu không có Dependency Injection, có cách nào để xử lý không?
+- Có rất nhiều Design Patterns để thay thế,ví dụ như Factory Pattern,Singleton Pattern ... Nhưng DI là phương pháp tối ưu nhất về hiệu suất cũng như triển khai sử dụng

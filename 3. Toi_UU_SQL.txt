@@ -1,0 +1,5 @@
++ Làm thế nào để tối ưu tốc độ truy vấn khi lưu trữ dữ liệu sự kiện hàng ngày trong SQL với 10 triệu bản ghi mỗi ngày? 
+- thiết kế,sử cơ sở dữ kiệu phù hợp
+- sử dụng kiểu dữ liệu phù hợp
+- sử dụng kỹ thuật partition bảng,Db
+- đánh chỉ mục các cột cần thiết
