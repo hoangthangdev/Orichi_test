@@ -31,6 +31,33 @@
   margin-bottom: 10px;
   font-weight: bold;
 }
+.t-option {
+  margin-left: 5px;
+  padding: 4PX;
+}
+.btn-add {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #FF4500; /* Màu nền */
+  color: white;
+  text-align: center;
+  border-radius: 5px; /* Góc bo tròn */
+  cursor: pointer; /* Thay đổi con trỏ thành biểu tượng nút */
+  user-select: none; /* Ngăn việc chọn text */
+  font-size: 16px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+ width: 100%;
+}
+
+.btn-add:hover {
+  background-color: #FF6347; /* Màu nền khi hover */
+}
+
+.btn-add:active {
+  background-color: #E03E00; /* Màu nền khi nhấn */
+  transform: scale(0.98); /* Hiệu ứng khi nhấn nút */
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
